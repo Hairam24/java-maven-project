@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hi this is HARIRAM - 10835505 hiiiiiii</h1>
-    <h1>Automatic Build is enabled in jenkins using GITScm polling</h1>
+    <h1>Hi this is HARIRAM - 10835505</h1>
+    
     <p>Please fill in this form to create an account.</p>
     <hr>
      
